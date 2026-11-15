@@ -10,7 +10,8 @@ directeur-commercial
 ├── seo-contenu            → marketing/seo-contenu/
 ├── emailing-crm           → marketing/emailing/
 ├── relations-presse       → marketing/relations-presse/
-└── analyste-performance   → marketing/performance/
+├── analyste-performance   → marketing/performance/
+└── coach-presentation     → presentations/
 ```
 
 Les définitions des agents se trouvent dans `.claude/agents/`.
@@ -35,6 +36,21 @@ Le directeur doit tourner dans la session principale pour pouvoir déléguer. En
 - `/directeur-commercial prépare le plan du mois prochain`
 - `/directeur-commercial crée une campagne pour le lancement de la v2, budget 300 €`
 - `/directeur-commercial voici l'export Google Analytics du mois, que faut-il changer ?`
+
+## Coach de présentation
+
+Un coach interactif pour préparer tes présentations en direct face aux collègues. Il couvre :
+- la stratégie : objectif, audience, alliés et sceptiques, préalignement ;
+- le message et la structure ;
+- les objections et les plans B ;
+- les simulations où il joue tes collègues ;
+- la gestion du trac et le débrief.
+
+- `/coach-presentation je présente le plan marketing jeudi au comité de direction, 15 min`
+- `/coach-presentation j'ai une réunion dans 30 min` déclenche le mode urgence.
+- `/coach-presentation débrief de ma présentation d'hier` prépare aussi l'email de suivi.
+
+Il range ses fiches de préparation, avec une antisèche d'une page, dans `presentations/`.
 
 ## Garde-fous
 
