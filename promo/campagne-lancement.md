@@ -1,6 +1,8 @@
 # Campagne de lancement 1YearHero — 16 nov. → 18 déc. 2026
 
-Objectif unique : **faire tester la démo** (gratuite, sans compte, 2 min). La démo vend, pas nous.
+> **Statut : pré-lancement — SIRET en cours.** Aucune vente, aucun prix, aucune remise tant que le SIRET n'est pas attribué. On recrute des **testeurs, établissements pilotes et inscrits à la liste d'attente**.
+
+Objectif unique : **faire tester la démo** (gratuite, sans compte, 2 min) et récolter des contacts intéressés pour l'ouverture des abonnements.
 
 ## 1. Cibles et messages
 
@@ -111,7 +113,7 @@ Légende : `Devoirs = quêtes. Projets = raids. Contrôles = boss. 🧙 Démo sa
 > La démo s'ouvre sans compte, en 2 minutes : [lien UTM email]
 > Une note d'une page pour la direction : https://1yearhero.com/documentation?doc=direction
 >
-> Seriez-vous d'accord pour 15 minutes d'échange la semaine prochaine ?
+> Je cherche quelques enseignants et établissements pilotes pour me faire un retour avant l'ouverture des abonnements. Seriez-vous d'accord pour 15 minutes d'échange la semaine prochaine ?
 >
 > Bien à vous,
 > [Signature]
@@ -128,7 +130,7 @@ Légende : `Devoirs = quêtes. Projets = raids. Contrôles = boss. 🧙 Démo sa
 >
 > Démo formateur, sans inscription : [lien UTM formateur]
 >
-> Je vous montre en 15 minutes avec vos propres questions ?
+> Je recrute quelques formateurs testeurs avant l'ouverture commerciale : je vous montre en 15 minutes avec vos propres questions ?
 >
 > [Signature] — *Répondez « stop » pour ne plus être contacté.*
 
@@ -143,7 +145,8 @@ Règles : 20–30 emails/jour max, depuis une adresse @1yearhero.com, personnali
 1. **Capturer des emails** : la liste Resend est vide. Ajouter « Recevez nos idées de quêtes » (case opt-in) en fin de démo et dans le footer → alimente le segment « General ».
 2. Vérifier que les UTM sont bien lus par l'outil d'analytics (Vercel Web Analytics).
 3. Afficher 1 ou 2 citations d'utilisateurs réels au-dessus du bouton démo.
-4. Mettre un code promo de lancement **seulement si décidé** (ex. -20 % jusqu'au 31/12) — à valider.
+4. **Pas de vente ni de code promo avant le SIRET.** Masquer ou marquer « bientôt disponible » les boutons d'achat de la page Tarifs, et proposer à la place « Prévenez-moi à l'ouverture ».
+5. Une fois le SIRET obtenu : l'ajouter aux mentions légales, puis offrir une remise « pionniers » aux inscrits de la liste d'attente.
 
 ## 7. KPI à suivre (bilan 18 déc.)
 
@@ -153,4 +156,14 @@ Règles : 20–30 emails/jour max, depuis une adresse @1yearhero.com, personnali
 | Taux d'ouverture démo → contact/inscription | 5 % |
 | Emails de prospection envoyés / réponses | 300 / 10 % |
 | RDV démo 15 min | 15 |
-| Abonnements signés | 5 |
+| Inscrits liste d'attente | 100 |
+| Enseignants / formateurs pilotes | 10 |
+
+## 8. Obtenir le SIRET (à lancer dès maintenant)
+
+1. **Si vous êtes enseignant fonctionnaire** : avant de créer l'entreprise, déposez une demande d'autorisation de cumul d'activités auprès de votre hiérarchie (rectorat). En cas de doute, demandez au référent déontologue. Ne vendez jamais à votre propre établissement (risque de conflit d'intérêts).
+2. Déclarer une micro-entreprise, en ligne et gratuitement, sur le guichet unique : formalites.entreprises.gouv.fr.
+3. L'INSEE attribue le SIRET, généralement en 1 à 4 semaines.
+4. Ensuite : ouvrir un compte bancaire dédié, mettre à jour les mentions légales et les CGV, puis s'inscrire sur Chorus Pro (facturation des établissements publics).
+
+*Ce sont des repères pratiques, pas un conseil juridique : faites confirmer votre cas par l'URSSAF, une CCI ou un expert-comptable.*
